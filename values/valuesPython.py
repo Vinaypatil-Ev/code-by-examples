@@ -1,0 +1,5 @@
+print("This is python string")
+print(100110)
+print(100011.0011)
+print(True)
+print(False)

@@ -1,0 +1,5 @@
+console.log("This is string")
+console.log(10011)
+console.log(11101.991)
+console.log(true)
+console.log(false)
