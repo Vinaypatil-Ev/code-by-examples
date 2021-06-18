@@ -1,4 +1,4 @@
-public class ValuesJava {
+class Values3Java {
     public static void main(String[] args) {
         System.out.println("This is string");
         System.out.println(10011);
